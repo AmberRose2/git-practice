@@ -2,7 +2,8 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
-    return max(numbers)
+    my_cute_lil_turtle = max(numbers)
+    return my_cute_lil_turtle
 
 
 if __name__ == "__main__":
